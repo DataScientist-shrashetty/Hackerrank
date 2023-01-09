@@ -1,59 +1,59 @@
 # Hackerrank 
 ## Python (115/115)
 #### Basic 
-Say "Hello, World!" With Python
-Python If-Else
-Arithmetic Operators
-Python: Division
-Loops
-Write a function
-Print Function
+##### Say "Hello, World!" With Python
+##### Python If-Else
+##### Arithmetic Operators
+##### Python: Division
+##### Loops
+##### Write a function
+##### Print Function
 #### Basic Data Type
-Tuples
-List Comprehensions
-Find the Runner-Up Score!
-Nested Lists
-Finding the percentage
-Lists
-### 3. String
-#### 3.a sWAP cASE
-#### 3.b String Split and Join
-#### 3.c What's Your Name?
-#### 3.d Mutations
-#### 3.e Find a string
-#### 3.f String Validators
-#### 3.g Text Alignment
-#### 3.h Text Wrap
-#### 3.i Designer Door Mat
-#### 3.j String Formatting
-#### 3.k Alphabet Rangoli
-#### 3.l Capitalize!
-#### 3.m The Minion Game
-#### 3.n Merge the Tools!
-## 4. Sets
-#### 4.a Introduction to Sets
-#### 4.b No Idea!
-#### 4.c Symmetric Difference
-#### 4.d Set .add()
-#### 4.e Set .discard(), .remove() & .pop()
-#### 4.f Set .union() Operation
-#### 4.g Set .intersection() Operation
-#### 4.h Set .difference() Operation
-#### 4.i Set .symmetric_difference() Operation
-#### 4.j Set Mutations
-#### 4.k The Captain's Room
-#### 4.l Check Subset
-#### 4.m Check Strict Superset
-## 5 Python Math
-#### 5.a Polar Coordinates
-#### 5.b Find Angle MBC
-#### 5.c Triangle Quest 2
-#### 5.d Mod Divmod
-#### 5.e Power - Mod Power
-#### 5.f Integers Come In All Sizes
-#### 5.g Triangle Quest
-## 6 itertools
-#### 6.1 itertools.product()
+##### Tuples
+##### List Comprehensions
+##### Find the Runner-Up Score!
+##### Nested Lists
+##### Finding the percentage
+##### Lists
+### String
+##### sWAP cASE
+##### String Split and Join
+##### What's Your Name?
+##### Mutations
+##### Find a string
+##### String Validators
+##### Text Alignment
+##### Text Wrap
+##### Designer Door Mat
+##### String Formatting
+##### Alphabet Rangoli
+##### Capitalize!
+##### The Minion Game
+##### Merge the Tools!
+### Sets
+##### Introduction to Sets
+##### No Idea!
+##### Symmetric Difference
+##### Set .add()
+##### Set .discard(), .remove() & .pop()
+##### Set .union() Operation
+##### Set .intersection() Operation
+##### Set .difference() Operation
+##### Set .symmetric_difference() Operation
+##### Set Mutations
+##### The Captain's Room
+##### Check Subset
+##### Check Strict Superset
+###  Python Math
+##### Polar Coordinates
+##### Find Angle MBC
+##### Triangle Quest 2
+##### Mod Divmod
+##### Power - Mod Power
+##### Integers Come In All Sizes
+##### Triangle Quest
+###  itertools
+##### itertools.product()
 #### 6.2 itertools.permutations()
 #### 6.3 itertools.combinations()
 #### 6.4 itertools.combinations_with_replacement()
@@ -128,7 +128,7 @@ Lists
 #### 16.12 Dot and Cross
 #### 16.13 Inner and Outer
 #### 16.14 Polynomials
-#### 16.15 Linear Algebra
-## 17 Debugging
-#### 17.1 Words Score
-#### 17.2 Default Arguments
+##### Linear Algebra
+### Debugging
+##### Words Score
+##### Default Arguments

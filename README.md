@@ -1,21 +1,21 @@
 # Hackerrank 
-## Python Coding Question with accepted code
-## 1. Basic 
-#### 1.a Say "Hello, World!" With Python
-#### 1.b Python If-Else
-#### 1.c Arithmetic Operators
-#### 1.d Python: Division
-#### 1.e Loops
-#### 1.f Write a function
-#### 1.g Print Function
-## 2. Basic Data Type
-#### 2.a Tuples
-#### 2.b List Comprehensions
-#### 2.c Find the Runner-Up Score!
-#### 2.d Nested Lists
-#### 2.e Finding the percentage
-#### 2.f Lists
-## 3. String
+## Python (115/115)
+#### Basic 
+Say "Hello, World!" With Python
+Python If-Else
+Arithmetic Operators
+Python: Division
+Loops
+Write a function
+Print Function
+#### Basic Data Type
+Tuples
+List Comprehensions
+Find the Runner-Up Score!
+Nested Lists
+Finding the percentage
+Lists
+### 3. String
 #### 3.a sWAP cASE
 #### 3.b String Split and Join
 #### 3.c What's Your Name?
